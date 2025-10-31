@@ -13,9 +13,17 @@ In dieser Lernperiode möchte ich mich weiter au Bewerbungen und Informatikproje
 
 Ich habe am Montag und Dienstag Zwei Modulabgaben und ich musste an dennen weiter arbeiten um vowärts zu kommen und ich konnte die Zeit Heute gut nutzen. Ich hatte ein wenig schwierigkeiten, weil das meine erste App war die ich mit Swift machte.
 
-## 17.10.25
+## 24.10.25
 - [ ] Bewerbungen machen
 - [ ] Neue Swift App (evtl ein Portfolio manager)
 - [ ]  
+
+## Reflexion
+
+
+## 31.10.25
+- [ ] Bewerbungen machen
+- [ ] Weiter an meinem Portfolio manager arbeiten
+- [ ]  Schneller schreiben üben
 
 ## Reflexion
