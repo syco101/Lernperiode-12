@@ -59,7 +59,7 @@ Heute habe ich 5 Firmen angerufen die eventuell eine Praktikumsstelle anbieten k
 
 ## 28.11.25
 - [ ] Bewerbungen machen
-- [ ] Weiter an meinem Portfolio manager arbeiten
+- [ ] Firmen finden
 - [ ] Schneller schreiben üben
 
 ## Reflexion
